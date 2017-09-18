@@ -23,7 +23,8 @@
 	
 ## Gameplay
 
-	The player only has two controls: increase gravity and decrease gravity. The player's challenge will be to use this simple control to guide a planet into an objective area without crashing it.
+	The player only has two controls: increase gravity and decrease gravity. 
+	The player's challenge will be to use this simple control to guide a planet into an objective area without crashing it.
 
 ## About Me
 
